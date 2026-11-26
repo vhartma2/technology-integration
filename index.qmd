@@ -1,5 +1,7 @@
 # Welcome
 
-Practice making, testing, and explaining a technology decision in a real instructional context. Follow Ms. Rivera’s class as it gathers evidence for a school garden planting plan, then apply the same decision process to a learning challenge of your own.
+What can learners do with a tool, and how will you know whether it helped? This open textbook is for future teachers, practicing educators, and anyone beginning to study technology integration. It guides you through one instructional decision from start to finish. You’ll set a learning goal, test a tool before choosing it, plan for access and responsible use, and use evidence from the lesson to decide what to keep or change.
+
+Follow Ms. Rivera’s middle school class as students compare garden observations, use a partner’s question to revise an explanation, and turn their findings into a planting recommendation. As the case develops, consider what the tool makes possible for students and what Ms. Rivera learns about when it’s worth using. Worked examples and reusable planning templates help you try the same process with a lesson of your own and explain your decision to colleagues.
 
 [How to Use This Book](how-to-use-this-book.qmd) · [Table of Contents](table-of-contents.qmd) · [Credits and Reuse](credits-and-reuse.qmd)

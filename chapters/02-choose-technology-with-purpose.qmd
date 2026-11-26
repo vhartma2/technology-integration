@@ -121,6 +121,10 @@ Test the claim you’re relying on. Suppose a vendor says a tool “supports col
 
 The [Partnership for 21st Century Learning](https://static.battelleforkids.org/documents/p21/p21_framework_definitionsbfk.pdf) groups four learning and innovation skills as the **4Cs**. Use the ones that matter for your goal. In the garden lesson, **critical thinking** is judging whether an observation supports an explanation. **Communication** is making that connection clear to a partner. **Collaboration** is using a partner’s question to strengthen the explanation. **Creativity** could come into play later when students design a follow-up comparison. Ms. Rivera looks for evidence of the first three in the peer exchange.
 
+![Critical thinking judges what the evidence supports. Communication explains reasoning clearly. Collaboration builds on others’ contributions. Creativity generates and tests new ideas.](../figures/02-four-cs.png)
+
+*Figure 2.3. The 4Cs in the Partnership for 21st Century Learning framework.*
+
 Use **Do No Harm** as a check before committing to a tool. Ask who could be excluded, what information learners would have to share, and whether the tool introduces avoidable risks or burdens. Decide which concern you can address and which would lead you to use another approach. For example, if an external tool requires personal accounts without school approval, Ms. Rivera can use an approved shared space or a paper exchange. The [AECT Code of Professional Ethics](https://www.aect.org/get-involved/professional-ethics) offers a starting point for considering access, privacy, and safe participation. Chapters 3 and 4 show how to check those concerns in practice.
 
 #### Technology-Supported and Low-Tech Options

@@ -1,0 +1,115 @@
+# Table of Contents
+
+**What Does the Tool Make Possible?**  
+*A Practical Guide to Integrating Technology for Learning*
+
+## Front matter
+
+- [Preface](preface.qmd)
+- [How to Use This Book](how-to-use-this-book.qmd)
+- [Credits and Reuse](credits-and-reuse.qmd)
+
+## [1. Start with a Learning Goal](chapters/01-start-with-a-learning-goal.qmd)
+
+- [Garden Evidence Card](chapters/01-start-with-a-learning-goal.qmd#garden-evidence-card)
+- [Learners and the Learning Challenge](chapters/01-start-with-a-learning-goal.qmd#learners-and-the-learning-challenge)
+  - [Learners and Context](chapters/01-start-with-a-learning-goal.qmd#learners-and-context)
+  - [A Challenge Worth Addressing](chapters/01-start-with-a-learning-goal.qmd#a-challenge-worth-addressing)
+- [Learning Goals and Standards](chapters/01-start-with-a-learning-goal.qmd#learning-goals-and-standards)
+  - [Observable Learning Goals](chapters/01-start-with-a-learning-goal.qmd#observable-learning-goals)
+  - [Standards and the Thinking They Require](chapters/01-start-with-a-learning-goal.qmd#standards-and-the-thinking-they-require)
+- [Alignment of Goals, Activities, and Evidence](chapters/01-start-with-a-learning-goal.qmd#alignment-of-goals-activities-and-evidence)
+  - [The Learning Activity](chapters/01-start-with-a-learning-goal.qmd#the-learning-activity)
+  - [Evidence of Learning](chapters/01-start-with-a-learning-goal.qmd#evidence-of-learning)
+- [Apply It to Your Design](chapters/01-start-with-a-learning-goal.qmd#apply-it-to-your-design)
+
+## [2. Choose Technology with Purpose](chapters/02-choose-technology-with-purpose.qmd)
+
+- [TPACK and Technology Fit](chapters/02-choose-technology-with-purpose.qmd#tpack-and-technology-fit)
+  - [Foundations of TPACK](chapters/02-choose-technology-with-purpose.qmd#foundations-of-tpack)
+  - [Intersections of Teacher Knowledge](chapters/02-choose-technology-with-purpose.qmd#intersections-of-teacher-knowledge)
+  - [Contextual Knowledge (XK)](chapters/02-choose-technology-with-purpose.qmd#contextual-knowledge-xk)
+- [SAMR and Task Design](chapters/02-choose-technology-with-purpose.qmd#samr-and-task-design)
+  - [Four Ways Technology Changes a Task](chapters/02-choose-technology-with-purpose.qmd#four-ways-technology-changes-a-task)
+  - [Task Changes and the Learning Goal](chapters/02-choose-technology-with-purpose.qmd#task-changes-and-the-learning-goal)
+    - [A Rule for Comparing the Garden Beds](chapters/02-choose-technology-with-purpose.qmd#a-rule-for-comparing-the-garden-beds)
+- [Tool Testing and Selection](chapters/02-choose-technology-with-purpose.qmd#tool-testing-and-selection)
+  - [Selection Criteria and Alternatives](chapters/02-choose-technology-with-purpose.qmd#selection-criteria-and-alternatives)
+  - [A Test from the Learner’s Position](chapters/02-choose-technology-with-purpose.qmd#a-test-from-the-learners-position)
+  - [A Provisional Choice](chapters/02-choose-technology-with-purpose.qmd#a-provisional-choice)
+- [Apply It to Your Design](chapters/02-choose-technology-with-purpose.qmd#apply-it-to-your-design)
+
+## [3. Design for Access and Participation](chapters/03-design-for-access-and-participation.qmd)
+
+- [Learner Variability](chapters/03-design-for-access-and-participation.qmd#learner-variability)
+  - [Why Variability Is Predictable](chapters/03-design-for-access-and-participation.qmd#why-variability-is-predictable)
+  - [Barriers in the Learning Environment](chapters/03-design-for-access-and-participation.qmd#barriers-in-the-learning-environment)
+- [Universal Design for Learning](chapters/03-design-for-access-and-participation.qmd#universal-design-for-learning)
+  - [Engagement](chapters/03-design-for-access-and-participation.qmd#engagement)
+  - [Representation](chapters/03-design-for-access-and-participation.qmd#representation)
+  - [Action and Expression](chapters/03-design-for-access-and-participation.qmd#action-and-expression)
+- [Accessibility in Practice](chapters/03-design-for-access-and-participation.qmd#accessibility-in-practice)
+  - [Why Accessibility Matters](chapters/03-design-for-access-and-participation.qmd#why-accessibility-matters)
+  - [Accessibility Checks and Supporting Tools](chapters/03-design-for-access-and-participation.qmd#accessibility-checks-and-supporting-tools)
+  - [Revision, Rechecking, and Learner Feedback](chapters/03-design-for-access-and-participation.qmd#revision-rechecking-and-learner-feedback)
+- [Apply It to Your Design](chapters/03-design-for-access-and-participation.qmd#apply-it-to-your-design)
+
+## [4. Teach Digital Citizenship and Use Technology Responsibly](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd)
+
+- [Digital Citizenship in Practice](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#digital-citizenship-in-practice)
+  - [Modeling Responsible Participation](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#modeling-responsible-participation)
+  - [Practice for Learners](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#practice-for-learners)
+- [Privacy, Security, and Healthy Use](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#privacy-security-and-healthy-use)
+  - [Accounts, Permissions, and Data](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#accounts-permissions-and-data)
+  - [Safeguards in Context](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#safeguards-in-context)
+- [Copyright, Attribution, and Reuse](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#copyright-attribution-and-reuse)
+  - [Permissions, Licenses, and Fair Use](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#permissions-licenses-and-fair-use)
+  - [Sources and Credits](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#sources-and-credits)
+- [Responsible Use of Generative AI](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#responsible-use-of-generative-ai)
+  - [AI in Teacher Planning](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#ai-in-teacher-planning)
+  - [AI in Learner Activities](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#ai-in-learner-activities)
+- [Apply It to Your Design](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#apply-it-to-your-design)
+
+## [5. Gather and Interpret Evidence of Learning](chapters/05-gather-and-interpret-evidence-of-learning.qmd)
+
+- [Assessment Design](chapters/05-gather-and-interpret-evidence-of-learning.qmd#assessment-design)
+  - [Evidence That Matches the Goal](chapters/05-gather-and-interpret-evidence-of-learning.qmd#evidence-that-matches-the-goal)
+  - [Formative and Summative Uses](chapters/05-gather-and-interpret-evidence-of-learning.qmd#formative-and-summative-uses)
+- [Evidence Collection and Organization](chapters/05-gather-and-interpret-evidence-of-learning.qmd#evidence-collection-and-organization)
+  - [Ways to Gather Responses](chapters/05-gather-and-interpret-evidence-of-learning.qmd#ways-to-gather-responses)
+  - [Patterns and Exceptions](chapters/05-gather-and-interpret-evidence-of-learning.qmd#patterns-and-exceptions)
+- [Interpretation and Feedback](chapters/05-gather-and-interpret-evidence-of-learning.qmd#interpretation-and-feedback)
+  - [Responses in Relation to Criteria](chapters/05-gather-and-interpret-evidence-of-learning.qmd#responses-in-relation-to-criteria)
+  - [Feedback and Instructional Adjustments](chapters/05-gather-and-interpret-evidence-of-learning.qmd#feedback-and-instructional-adjustments)
+- [Apply It to Your Design](chapters/05-gather-and-interpret-evidence-of-learning.qmd#apply-it-to-your-design)
+
+## [6. Teach, Evaluate, and Revise](chapters/06-teach-evaluate-and-revise.qmd)
+
+- [The Teaching Trial](chapters/06-teach-evaluate-and-revise.qmd#the-teaching-trial)
+  - [A Focused Trial Question](chapters/06-teach-evaluate-and-revise.qmd#a-focused-trial-question)
+  - [Observation and Evidence](chapters/06-teach-evaluate-and-revise.qmd#observation-and-evidence)
+- [Evaluation After Use](chapters/06-teach-evaluate-and-revise.qmd#evaluation-after-use)
+  - [Tool Performance Against the Original Criteria](chapters/06-teach-evaluate-and-revise.qmd#tool-performance-against-the-original-criteria)
+  - [Evidence of Participation and Learning](chapters/06-teach-evaluate-and-revise.qmd#evidence-of-participation-and-learning)
+- [Targeted Revision](chapters/06-teach-evaluate-and-revise.qmd#targeted-revision)
+  - [What to Retain, Change, or Replace](chapters/06-teach-evaluate-and-revise.qmd#what-to-retain-change-or-replace)
+  - [Rationale and Next Test](chapters/06-teach-evaluate-and-revise.qmd#rationale-and-next-test)
+- [Apply It to Your Design](chapters/06-teach-evaluate-and-revise.qmd#apply-it-to-your-design)
+- [Optional reading · Kirkpatrick’s Levels and Broader Evaluation in Professional Development](chapters/06-teach-evaluate-and-revise.qmd#kirkpatricks-levels-and-broader-evaluation-in-professional-development)
+
+## [7. Lead and Learn with Colleagues](chapters/07-lead-and-learn-with-colleagues.qmd)
+
+- [Learning from Colleagues](chapters/07-lead-and-learn-with-colleagues.qmd#learning-from-colleagues)
+  - [Practices from Educator Communities](chapters/07-lead-and-learn-with-colleagues.qmd#practices-from-educator-communities)
+  - [Fit and Adaptation](chapters/07-lead-and-learn-with-colleagues.qmd#fit-and-adaptation)
+- [Sharing a Practice](chapters/07-lead-and-learn-with-colleagues.qmd#sharing-a-practice)
+  - [Students Share with the School Community](chapters/07-lead-and-learn-with-colleagues.qmd#students-share-with-the-school-community)
+  - [Ms. Rivera Learns with Professional Colleagues](chapters/07-lead-and-learn-with-colleagues.qmd#ms-rivera-learns-with-professional-colleagues)
+- [Apply It to Your Design](chapters/07-lead-and-learn-with-colleagues.qmd#apply-it-to-your-design)
+
+## Back matter
+
+- [Project Toolkit](project-toolkit.qmd)
+- [How This Book Was Made](how-this-book-was-made.qmd)
+- [Glossary](glossary.qmd)
+- [Attribution ledger](attribution-ledger.qmd)

@@ -1,0 +1,7 @@
+# Credits and Reuse
+
+Except where otherwise noted, the original text, illustrations, project templates, and fictional practice data in this book are dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), to the extent permitted by law. You may copy, adapt, and share that material without requesting permission. If you credit the book, please identify any changes so readers can locate the version you used.
+
+Third-party material retains its own terms. Check the credit or source information accompanying any material you plan to reuse. Resources linked from this book, including CAST’s interactive Universal Design for Learning Guidelines, are governed by their respective rights holders’ terms. The [attribution ledger](attribution-ledger.qmd) records the source and reuse status of the book’s figures and companion resources.
+
+The [preface](preface.qmd#how-ai-assisted) describes the author’s role and how Codex assisted.

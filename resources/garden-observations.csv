@@ -1,0 +1,25 @@
+Day,Observation time,Sunny bed surface,Shaded bed surface
+1,10 a.m.,Damp,Damp
+1,2 p.m.,Dry,Damp
+2,10 a.m.,Damp,Damp
+2,2 p.m.,Dry,Damp
+3,10 a.m.,Damp,Wet
+3,2 p.m.,Dry,
+4,10 a.m.,Damp,Damp
+4,2 p.m.,Damp,Damp
+5,10 a.m.,Damp,Damp
+5,2 p.m.,Dry,Damp
+6,10 a.m.,Wet,Damp
+6,2 p.m.,Damp,Dry
+7,10 a.m.,Damp,Damp
+7,2 p.m.,,Damp
+8,10 a.m.,Damp,Wet
+8,2 p.m.,,
+9,10 a.m.,Damp,Damp
+9,2 p.m.,Dry,Damp
+10,10 a.m.,Damp,Damp
+10,2 p.m.,Dry,Dry
+11,10 a.m.,Damp,Wet
+11,2 p.m.,Dry,Damp
+12,10 a.m.,Wet,Wet
+12,2 p.m.,Damp,Damp

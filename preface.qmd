@@ -1,0 +1,19 @@
+# Preface
+
+I began this book while redesigning ISTC 301/501, Integrating Instructional Technology, at Towson University. The course had accumulated useful readings and resources, but students had to make connections across scattered links and separate assignments. I wanted one resource that could support a sustained design project and give students practice making, testing, and explaining a technology decision in a real instructional context.
+
+The book starts with a question teachers face often: What do learners need to do, and what might a tool make possible for them? To answer it, you’ll choose a learning goal, compare approaches, and decide how to check whether learners can participate and show what they know. You’ll keep a record of the evidence that informs each change. The same process can help you decide to use a tool, change how you use it, or continue with another approach.
+
+I wrote first for students in ISTC 301/501. I also had in mind future and practicing educators encountering technology integration in teacher education, educational technology programs, or professional development. You can work through the book using a lesson from your own setting. [How to Use This Book](how-to-use-this-book.qmd) explains what to carry forward as you read.
+
+I had a second goal for the project. I wanted to learn how to build and maintain an open educational resource using an AI-assisted, file-based workflow. By describing that process, I hope to give students and colleagues a concrete example they can examine and adapt for their own work. The goal is to make the book easier to update as tools, settings, and teaching needs change.
+
+This process is how I understand technology leadership. It applies when a teacher chooses a tool for one lesson and when an institution reviews a major investment such as a learning management system. In both settings, we can start with what people need to do, involve the people who will use the technology, compare options, set criteria before choosing, and revisit the decision using evidence from practice. The scale changes who needs to be involved and what evidence we need. Developing this book gave me a chance to document what I tried, what I checked, and why I revised it, so others can examine and build on the work.
+
+Thank you to David Wiley for creating and openly sharing the [Open Textbook Draft skill](https://github.com/kalendar/open-textbook-draft). Its chapter-by-chapter approach helped me turn course planning materials into a book I could review, revise, and prepare for others to use.
+
+## How AI assisted
+
+I brought the course roadmap, a proposed outline, and my own writing on technology integration to the project. I used Codex with the Open Textbook Draft skill to develop the outline, draft and revise chapters, create diagrams and sample resources, and check how concepts and learning outcomes connect across the book. We also used OpenAI image generation for the illustrations of Ms. Rivera and her class. Codex helped find and check source links. I set the instructional direction, reviewed and revised the drafts, and approved the content and design decisions. The sources cited in each chapter provide the basis for its research and framework claims.
+
+Ms. Rivera, her class, and the garden project are fictional. The student responses, trial observations, and downloadable garden data were created for instructional use. [How This Book Was Made](how-this-book-was-made.qmd) explains how the worked examples and practice resources developed.

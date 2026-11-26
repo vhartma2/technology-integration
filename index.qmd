@@ -1,0 +1,5 @@
+# Welcome
+
+Practice making, testing, and explaining a technology decision in a real instructional context. Follow Ms. Rivera’s class as it gathers evidence for a school garden planting plan, then apply the same decision process to a learning challenge of your own.
+
+[How to Use This Book](how-to-use-this-book.qmd) · [Table of Contents](table-of-contents.qmd) · [Credits and Reuse](credits-and-reuse.qmd)

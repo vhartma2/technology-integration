@@ -1,0 +1,19 @@
+# Facilitate the Garden Data Activity
+
+**Time:** About 15 minutes. **Materials:** The [12-day spreadsheet](garden-observations.xlsx), [CSV](garden-observations.csv), or a printed copy; the [Chapter 2 worked rule](../chapters/02-choose-technology-with-purpose.qmd#a-rule-for-comparing-the-garden-beds). The log contains 24 fictional observation rows, two per day. The first two days match the garden evidence card. Later rows are for practice. A blank means a reading was not recorded.
+
+1. **Model the first decision.** Point to the Day 1 afternoon row. Ask which columns and which time matter for the question. Classify the row together.
+2. **Test independently.** Have partners write the rule in their own words. One partner can try Days 2–4 while the other tries Days 6–8. Swap and compare the results. Ask each pair to explain the difference between an observed result that doesn’t match the pattern and a result they can’t classify.
+3. **Revise and test again.** Give learners a few minutes to clarify their rule, especially how it handles a missing reading. Try the rule on the remaining afternoons. Ask what they can now say about the pattern and what evidence they would need to explain it.
+
+## Answer key
+
+| Result at 2 p.m. | Days | Count |
+|---|---|---:|
+| Pattern present | 1, 2, 5, 9, 11 | 5 |
+| Pattern absent | 4, 6, 10, 12 | 4 |
+| Insufficient evidence | 3, 7, 8 | 3 |
+
+Among the nine afternoons with both readings, five fit the pattern. Report the three incomplete afternoons separately. The surface observations alone leave the cause of the pattern uncertain.
+
+Collect the rule, one test result, and a sentence explaining what learners changed after comparing answers. For transfer, ask them to name a question in another subject or setting, choose the information they would need, and write one test case with missing or ambiguous information. Start with paper if that helps learners focus on the rule. With the spreadsheet, they can filter the observation-time column and add a result column.

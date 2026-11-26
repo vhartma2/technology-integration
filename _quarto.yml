@@ -1,0 +1,39 @@
+project:
+  type: book
+  resources:
+    - resources/garden-observations.csv
+    - resources/garden-observations.xlsx
+
+book:
+  title: "What Does the Tool Make Possible?"
+  subtitle: "A Practical Guide to Integrating Technology for Learning"
+  cover-image: figures/cover-draft-v3.png
+  cover-image-alt: "Cover of What Does the Tool Make Possible?"
+  chapters:
+    - index.qmd
+    - part: "Front Matter"
+      chapters:
+        - table-of-contents.qmd
+        - preface.qmd
+        - how-to-use-this-book.qmd
+        - credits-and-reuse.qmd
+    - chapters/01-start-with-a-learning-goal.qmd
+    - chapters/02-choose-technology-with-purpose.qmd
+    - chapters/03-design-for-access-and-participation.qmd
+    - chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd
+    - chapters/05-gather-and-interpret-evidence-of-learning.qmd
+    - chapters/06-teach-evaluate-and-revise.qmd
+    - chapters/07-lead-and-learn-with-colleagues.qmd
+    - part: "Resources and Credits"
+      chapters:
+        - project-toolkit.qmd
+        - resources/garden-observations-facilitation.qmd
+        - glossary.qmd
+        - how-this-book-was-made.qmd
+        - attribution-ledger.qmd
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false

@@ -1,0 +1,31 @@
+# How This Book Was Made
+
+The starting point was a course redesign for ISTC 301/501, Integrating Instructional Technology, at Towson University. Two planning documents served different purposes. The course roadmap showed how instruction, assignments, and assessment fit together. A proposed table of contents sketched what a textbook could teach. I used both to decide what readers needed to learn and how the book could help them develop one lesson over time.
+
+## From course plan to open textbook
+
+I worked with Codex and David Wiley’s Open Textbook Draft skill in a folder of editable files. I supplied the course materials, set the direction, and reviewed the work in stages. Codex proposed outlines, drafted and revised text and figures, and recorded decisions. The book brief, style guide, outline, chapter files, and decision log made it possible to see how a choice in one chapter affected decisions elsewhere. The [preface](preface.qmd#how-ai-assisted) explains the division of work.
+
+The chapter on learner variability offers an example. The initial draft explained the three principles of Universal Design for Learning and linked to a CAST resource. I wanted readers to practice using that resource when they faced an instructional problem. We revised the chapter so readers start with a concern, find a relevant CAST consideration, adapt a suggestion, and decide what evidence would tell them whether it helped. That change gave the link a purpose and changed the work readers do in the chapter.
+
+The recurring garden case also gave us a way to check the book as a whole. We traced how the initial tool choice carried into the accessibility check, the teaching rehearsal, and the public recommendation. When the review revealed that the story referred to observations readers hadn’t been given, we added an evidence card in Chapter 1. When Chapter 5 referred to a discussion thread that Chapter 3 had already replaced, we brought the two accounts into agreement.
+
+I also revisited the original outline after drafting. Computational thinking was in the course plan, so I looked for a place where it would help readers do work the book already asked them to do. A saved peer question about whether the garden pattern repeated gave us that opening. The chapter teaches a rule on a few rows, and the fuller fictional log lets learners test the rule on ordinary and incomplete observations. We checked that both downloadable formats matched and that the answer key followed the same rule. The [Project Toolkit](project-toolkit.qmd) also grew out of this review. It gives readers blank records they can use alongside the completed examples in all seven chapters.
+
+## Illustrating the case and the models
+
+The book uses diagrams to explain models and decisions, and narrative illustrations to show the people doing the work. We first used OpenAI image generation to draft two scenes: the class collecting observations and the students presenting at Green Day. I reviewed those scenes before extending the same style and character details to the other chapters. I wanted the illustrations to reflect a diverse class and show students in active roles, including gathering evidence, trying different ways to participate, and presenting their reasoning. The characters and scenes are fictional.
+
+Each chapter illustration has a caption and alt text. The model diagrams have text explanations in the chapters, and the [attribution ledger](attribution-ledger.qmd) credits the frameworks they draw on. Readers can follow the garden investigation through the evidence card and the chapter text.
+
+## Try the workflow on a smaller project
+
+You can try this process with a single reading or teaching guide before applying it to a textbook.
+
+1. **Set the purpose.** Name your readers and one thing they should be able to do after using the resource.
+2. **Gather your starting materials.** Bring a lesson plan, a sample task, or a few sources you have permission to use. List any terms that limit reuse.
+3. **Agree on an outline.** Decide what you’ll explain, what readers will practice, and what evidence would show progress. If you use an AI tool, give it the learning goal and your criteria before asking it to draft.
+4. **Review a small draft.** Check the explanation, work through the activity yourself, follow the links you plan to share, and check that readers can use the material with the tools and supports available to them. Record what you change and why.
+5. **Share a version you can maintain.** Keep editable source files, record third-party terms, and document meaningful AI assistance. Ask a reader or colleague where the guide helped and where they still needed support. Use the feedback to decide what to revise.
+
+This is one way to practice technology leadership. You can make the reasoning behind a decision visible, give others evidence they can examine, and leave them a resource they can adapt. A small project lets you rehearse that process before you use it for a larger course redesign or an institutional technology decision.

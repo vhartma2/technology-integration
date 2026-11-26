@@ -1,0 +1,47 @@
+# Project Toolkit
+
+Copy the records below into a document you can edit. Use one lesson throughout the book and add to the records as you learn more. The chapter links lead to completed examples you can consult before drafting your own.
+
+To practice writing and testing a repeatable procedure, use the fictional [garden observation spreadsheet](resources/garden-observations.xlsx) or [CSV](resources/garden-observations.csv) with the [Chapter 2 worked rule](chapters/02-choose-technology-with-purpose.qmd#a-rule-for-comparing-the-garden-beds). Instructors can use the [facilitation guide and answer key](resources/garden-observations-facilitation.qmd).
+
+## Lesson Sketch
+
+Use with [Chapter 1’s completed lesson sketch](chapters/01-start-with-a-learning-goal.qmd#a-completed-lesson-sketch) and [Chapter 5’s assessment and evidence plan](chapters/05-gather-and-interpret-evidence-of-learning.qmd#a-completed-assessment-and-evidence-plan).
+
+| Prompt | Your notes |
+|---|---|
+| Who are the learners? What do they bring to the task? | |
+| What learning challenge can you address in this lesson? What evidence supports your interpretation? | |
+| What will learners do to demonstrate learning? Which standard or expectation applies, if relevant? | |
+| What will learners do to practice the same thinking? | |
+| What will you collect, how can learners respond, and what criteria will you apply? | |
+| What might the evidence suggest? What would learners revise or try next? | |
+
+## Tool Decision, Access, and Responsible Use Record
+
+Use with [Chapter 2’s tool decision record](chapters/02-choose-technology-with-purpose.qmd#the-tool-decision-record), [Chapter 3’s access revision record](chapters/03-design-for-access-and-participation.qmd#a-completed-access-revision-record), and [Chapter 4’s responsible-use note](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#a-completed-responsible-use-note).
+
+| Prompt | Your notes |
+|---|---|
+| What options fit the goal and setting? Include a low-tech option where it makes sense. | |
+| What can learners do with each option? Which of the 4Cs matters here, and what would show it in learner work? | |
+| What claim are you relying on? What would a representative learner task let you check? | |
+| Where might learners encounter a barrier? What access, privacy, safety, or other concern could change your choice? | |
+| What questions do engagement, representation, and action and expression raise? Which UDL consideration will you act on first, and why? | |
+| What did you try, what happened, and what did you still need to check? | |
+| What did you revise to improve access? What did your recheck show, and what will you ask learners after use? | |
+| What safeguards, reuse terms, and any AI-use expectations apply? How will you verify them? | |
+| What do you choose provisionally? What cost, support, or access change would lead you to reconsider? | |
+
+## Trial, Revision, and Sharing Record
+
+Use with [Chapter 6’s trial and revision record](chapters/06-teach-evaluate-and-revise.qmd#a-completed-trial-and-revision-record) and [Chapter 7’s two-audience plan](chapters/07-lead-and-learn-with-colleagues.qmd#a-completed-two-audience-plan).
+
+| Prompt | Your notes |
+|---|---|
+| What short segment will you try, with whom, and under what conditions? | |
+| What question will the trial help answer? What should an observer record? | |
+| What happened? What does it suggest about the tool or activity? What did learner work show, if available? | |
+| What will you change, and why? What will you look for in the next test? | |
+| Who could use or question what learners produce? What can learners share, and how would they respond to a question? | |
+| What evidence can you share with colleagues? What should they check in their setting, and what feedback would help you? | |

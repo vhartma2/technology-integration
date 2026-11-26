@@ -1,0 +1,73 @@
+# Glossary
+
+Find a term below, then follow the chapter link for the explanation and an example.
+
+| Term | Definition | Where it is introduced |
+|---|---|---|
+| 4Cs | Critical thinking, communication, collaboration, and creativity. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Criteria for the Learning Goal and Context |
+| Accessibility | The ability of people with disabilities to use a material or tool and participate in the activity it supports. | [Chapter 3](chapters/03-design-for-access-and-participation.qmd) · Why Accessibility Matters |
+| Accessibility checker | A tool that flags some accessibility issues in a document or page. | [Chapter 3](chapters/03-design-for-access-and-participation.qmd) · Accessibility Checkers |
+| Action and expression | How learners interact with a task and communicate what they know. | [Chapter 3](chapters/03-design-for-access-and-participation.qmd) · Action and Expression |
+| Adaptation | Changing a practice to fit a setting while preserving what makes it useful. | [Chapter 7](chapters/07-lead-and-learn-with-colleagues.qmd) · Adaptation and Local Testing |
+| Affordance | An action a tool makes possible for particular learners in a particular setting. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Criteria for the Learning Goal and Context |
+| AI disclosure | A note explaining how AI contributed to specific work. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · Accuracy, Access, and Privacy |
+| Algorithm | A precise sequence of steps for carrying out a task. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd#a-rule-for-comparing-the-garden-beds) |
+| Alignment | The fit among a learning goal, the activity, and what learner work reveals. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · The Learning Activity |
+| Assessment | A way to gather and interpret evidence about learning. | [Chapter 5](chapters/05-gather-and-interpret-evidence-of-learning.qmd) · Evidence That Matches the Goal |
+| Attribution | Credit given for another person’s work. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · Terms for Reuse |
+| Augmentation | A tool replacement that adds a functional improvement to the same basic task. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Substitution and Augmentation |
+| Barrier to participation | A feature of the task, materials, or setting that makes it harder for someone to take part. | [Chapter 3](chapters/03-design-for-access-and-participation.qmd) · Barriers in the Learning Environment |
+| Bloom’s Taxonomy | A framework for examining kinds of thinking a task requires. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · Bloom’s Taxonomy and Task Demands |
+| Cognitive process dimension | The kinds of thinking learners can use with knowledge in revised Bloom’s Taxonomy. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd#blooms-taxonomy-and-task-demands) |
+| Community of practice | A group that learns together over time about a shared area of work and develops practices its members can use. | [Chapter 7](chapters/07-lead-and-learn-with-colleagues.qmd) · Practices from Educator Communities |
+| Computational thinking | Breaking a problem into parts, identifying relevant information, and expressing a procedure that can be followed and tested. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd#a-rule-for-comparing-the-garden-beds) |
+| Content knowledge (CK) | Knowledge of the subject. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Foundations of TPACK |
+| Contextual knowledge (XK) | What a teacher knows about the settings that shape a decision. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Contextual Knowledge |
+| Criteria | Features used to judge a response in relation to the learning goal. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · Observable Learning Goals. Revisited in Chapter 5 |
+| Curriculum standard | A learning expectation for a subject, grade band, or program. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · From a Standard to a Lesson Goal |
+| Digital citizenship | How people participate in digital communities and take responsibility for the effects of their actions. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · Modeling Responsible Participation |
+| Digital footprint | The record people leave through online activity. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · Practice for Learners |
+| Distal context | Wider social, economic, cultural, or policy conditions that influence the setting. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Immediate, Proximal, and Distal Contexts |
+| Do No Harm | A check for foreseeable barriers, risks, and burdens before committing to a tool. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Criteria for the Learning Goal and Context |
+| Engagement | How learners connect with a task and sustain their effort. | [Chapter 3](chapters/03-design-for-access-and-participation.qmd) · Engagement |
+| Evidence of learning | Learner work or performance that can be interpreted in relation to a goal. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · What Learners Say, Make, or Do |
+| Fair use | A U.S. legal doctrine that permits some uses of copyrighted work without permission, depending on the circumstances. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · Terms for Reuse |
+| Feature | Something a tool has or does. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd#criteria-for-the-learning-goal-and-context) |
+| Feedback | Information learners can use to understand how their work relates to a goal and what to do next. | [Chapter 5](chapters/05-gather-and-interpret-evidence-of-learning.qmd) · Feedback and Instructional Adjustments |
+| Formative assessment | Use of evidence to guide the next steps while learners can still act on it. | [Chapter 5](chapters/05-gather-and-interpret-evidence-of-learning.qmd) · Formative and Summative Uses |
+| Generative AI | AI that produces material such as text or images in response to a prompt. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · AI in Teacher Planning |
+| Immediate context | The direct setting for learning, including learners, classroom activity, and available supports. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Immediate, Proximal, and Distal Contexts |
+| Knowledge dimension | The kinds of knowledge a learning objective can address in revised Bloom’s Taxonomy. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd#blooms-taxonomy-and-task-demands) |
+| Large language model (LLM) | An AI model trained on large collections of data to process and generate language. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · AI in Teacher Planning |
+| Learner context | What learners already know and can do and the conditions in which they will do the work. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · Learners and Context |
+| Learner variability | The way strengths, experiences, and support needs differ across people and shift within the same person. | [Chapter 3](chapters/03-design-for-access-and-participation.qmd) · Why Variability Is Predictable |
+| Learning challenge | A specific difficulty or opportunity for growth that instruction can address. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · A Challenge Worth Addressing |
+| Learning goal | A statement of what learners should know or be able to do. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · Observable Learning Goals |
+| Learning objective | An observable learning goal, often written for a single lesson. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · Observable Learning Goals |
+| License | Permissions and conditions from a rights holder. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · Terms for Reuse |
+| Modification | A substantial redesign of the task. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Modification and Redefinition |
+| Pedagogical content knowledge (PCK) | Knowledge of how to teach particular content. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Foundations of TPACK, formal definition in Intersections of Teacher Knowledge |
+| Pedagogical knowledge (PK) | Knowledge of teaching and learning. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Foundations of TPACK |
+| Privacy | What information is collected, who can access it, and how it is used. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · Accounts, Permissions, and Data |
+| Professional leadership | Helping colleagues improve their practice by sharing evidence and inviting feedback or further testing. | [Chapter 7](chapters/07-lead-and-learn-with-colleagues.qmd#sharing-a-practice) |
+| Professional learning | Work educators do to develop and improve their practice. | [Chapter 7](chapters/07-lead-and-learn-with-colleagues.qmd) · Practices from Educator Communities |
+| Proximal context | Organizational conditions that shape the lesson, such as school policy and support. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Immediate, Proximal, and Distal Contexts |
+| Redefinition | A change that makes possible a task the earlier arrangement could not support. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Modification and Redefinition |
+| Representation | How learners access and make sense of information. | [Chapter 3](chapters/03-design-for-access-and-participation.qmd) · Representation |
+| Representative task | A small piece of the lesson that captures an important action learners will need to do. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Learner Permissions and Devices |
+| SAMR | A framework that describes how technology changes a task through substitution, augmentation, modification, or redefinition. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Four Ways Technology Changes a Task |
+| Security | How accounts, files, and systems are protected from unauthorized access or changes. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd) · Accounts, Permissions, and Data |
+| Selection criteria | Conditions an option needs to meet for a particular lesson. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Criteria for the Learning Goal and Context |
+| Shared annotation | Attaching comments to specific passages in a text so others can read and respond to them. | [Chapter 1](chapters/01-start-with-a-learning-goal.qmd) · Opening case |
+| Substitution | A tool replacement that keeps the task’s function the same. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Substitution and Augmentation |
+| Summative assessment | Use of evidence to judge what learners achieved at a particular point. | [Chapter 5](chapters/05-gather-and-interpret-evidence-of-learning.qmd) · Formative and Summative Uses |
+| Targeted revision | A change to a specific part of the design in response to evidence. | [Chapter 6](chapters/06-teach-evaluate-and-revise.qmd) · What to Retain, Change, or Replace |
+| Teaching trial | A small enactment of part of a lesson to gather evidence about a design question. | [Chapter 6](chapters/06-teach-evaluate-and-revise.qmd) · A Focused Trial Question |
+| Technological content knowledge (TCK) | Knowledge of how technology can represent or help learners investigate subject matter. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Intersections of Teacher Knowledge |
+| Technological knowledge (TK) | Knowledge of tools and how to use them. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Foundations of TPACK |
+| Technological Pedagogical Content Knowledge (TPACK) | A framework for understanding the knowledge teachers bring together when teaching with technology. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Foundations of TPACK |
+| Technological pedagogical knowledge (TPK) | Knowledge of how a tool can shape a teaching approach. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · Intersections of Teacher Knowledge |
+| Text-to-speech | Technology that reads digital text aloud. | [Chapter 3](chapters/03-design-for-access-and-participation.qmd) · Text-to-Speech |
+| Tool decision record | A record of what you chose, why, and what you’ll check after use. | [Chapter 2](chapters/02-choose-technology-with-purpose.qmd) · The Tool Decision Record |
+| Transparency | Making the role of AI in the work understandable. | [Chapter 4](chapters/04-teach-digital-citizenship-and-use-technology-responsibly.qmd#accuracy-access-and-privacy) |
+| Universal Design for Learning (UDL) | A framework for planning options that help learners take part in meaningful, challenging work. | [Chapter 3](chapters/03-design-for-access-and-participation.qmd) · Universal Design for Learning |

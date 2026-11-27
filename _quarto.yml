@@ -34,6 +34,9 @@ book:
 
 format:
   html:
+    css: glossary-popovers.css
+    filters:
+      - glossary-popovers.lua
     toc: true
     toc-depth: 3
     number-sections: false

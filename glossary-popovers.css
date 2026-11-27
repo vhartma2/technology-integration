@@ -1,0 +1,26 @@
+.glossary-term {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--bs-link-color);
+  font: inherit;
+  font-weight: 700;
+  text-decoration: underline dotted;
+  text-underline-offset: 0.2em;
+  cursor: pointer;
+}
+
+.glossary-popover {
+  box-sizing: border-box;
+  width: min(28rem, calc(100% - 2rem));
+  padding: 1rem;
+  color: var(--bs-body-color);
+  background: var(--bs-body-bg);
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1.5rem rgb(0 0 0 / 20%);
+}
+
+.glossary-popover button {
+  min-height: 2rem;
+}

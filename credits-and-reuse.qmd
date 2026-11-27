@@ -4,7 +4,7 @@
 
 **First published:** November 2026
 
-Valerie Hartman teaches technology integration and develops resources for educators. She developed this open textbook while redesigning an instructional technology course at Towson University. The book grew out of a goal for that course: to give educators practice making, testing, and explaining technology decisions in their own teaching contexts.
+Valerie Hartman, PhD, teaches technology integration and works in learning innovation at the Peabody Institute of Johns Hopkins University, where she has helped develop open educational resources. Her research interests include decision-making and creativity in education. She is also interested in technology leadership, particularly how educators and institutions choose, test, and evaluate tools for learning. She developed this textbook while redesigning an instructional technology course at Towson University to give educators practice making and explaining technology decisions in their own teaching contexts.
 
 For questions, corrections, or feedback about the book, contact [Valerie Hartman](mailto:vhartman@jhu.edu).
 

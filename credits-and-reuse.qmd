@@ -10,7 +10,7 @@ For questions, corrections, or feedback about the book, contact [Valerie Hartman
 
 ## Suggested Citation
 
-Hartman, V. (2026). *What does the tool make possible? A practical guide to integrating technology for learning*. <https://vhartma2.github.io/technology-integration/>
+Hartman, V. (2026). *What does the tool make possible? A practical guide to integrating technology for learning*. <https://vhartma2.github.io/technology-integration/index.html>
 
 ## Reuse
 

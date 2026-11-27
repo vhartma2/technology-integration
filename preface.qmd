@@ -18,4 +18,4 @@ I brought the course roadmap, a proposed outline, and my own writing on technolo
 
 Ms. Rivera, her class, and the garden project are fictional. The student responses, trial observations, and downloadable garden data were created for instructional use. [How This Book Was Made](how-this-book-was-made.qmd) explains how the worked examples and practice resources developed.
 
-— Valerie Hartman
+— Valerie Hartman, PhD

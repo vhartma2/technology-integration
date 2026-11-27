@@ -2,13 +2,15 @@
 
 **Author and project lead:** Valerie Hartman
 
+**First published:** November 2026
+
 Valerie Hartman teaches technology integration and develops resources for educators. She developed this open textbook while redesigning an instructional technology course at Towson University. The book grew out of a goal for that course: to give educators practice making, testing, and explaining technology decisions in their own teaching contexts.
 
 For questions, corrections, or feedback about the book, contact [Valerie Hartman](mailto:vhartman@jhu.edu).
 
 ## Suggested Citation
 
-Hartman, V. (n.d.). *What does the tool make possible? A practical guide to integrating technology for learning*. <https://vhartma2.github.io/quarto-book/>
+Hartman, V. (2026). *What does the tool make possible? A practical guide to integrating technology for learning*. <https://vhartma2.github.io/quarto-book/>
 
 ## Reuse
 

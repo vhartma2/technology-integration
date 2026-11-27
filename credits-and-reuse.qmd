@@ -1,5 +1,17 @@
 # Credits and Reuse
 
+**Author and project lead:** Valerie Hartman
+
+Valerie Hartman teaches technology integration and develops resources for educators. She developed this open textbook while redesigning an instructional technology course at Towson University. The book grew out of a goal for that course: to give educators practice making, testing, and explaining technology decisions in their own teaching contexts.
+
+For questions, corrections, or feedback about the book, contact [Valerie Hartman](mailto:vhartman@jhu.edu).
+
+## Suggested Citation
+
+Hartman, V. (n.d.). *What does the tool make possible? A practical guide to integrating technology for learning*. <https://vhartma2.github.io/quarto-book/>
+
+## Reuse
+
 Except where otherwise noted, the original text, illustrations, project templates, and fictional practice data in this book are dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), to the extent permitted by law. You may copy, adapt, and share that material without requesting permission. If you credit the book, please identify any changes so readers can locate the version you used.
 
 Third-party material retains its own terms. Check the credit or source information accompanying any material you plan to reuse. Resources linked from this book, including CAST’s interactive Universal Design for Learning Guidelines, are governed by their respective rights holders’ terms. The [attribution ledger](attribution-ledger.qmd) records the source and reuse status of the book’s figures and companion resources.

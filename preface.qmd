@@ -17,3 +17,5 @@ Thank you to David Wiley for creating and openly sharing the [Open Textbook Draf
 I brought the course roadmap, a proposed outline, and my own writing on technology integration to the project. I used Codex with the Open Textbook Draft skill to develop the outline, draft and revise chapters, create diagrams and sample resources, and check how concepts and learning outcomes connect across the book. We also used OpenAI image generation for the illustrations of Ms. Rivera and her class. Codex helped find and check source links. I set the instructional direction, reviewed and revised the drafts, and approved the content and design decisions. The sources cited in each chapter provide the basis for its research and framework claims.
 
 Ms. Rivera, her class, and the garden project are fictional. The student responses, trial observations, and downloadable garden data were created for instructional use. [How This Book Was Made](how-this-book-was-made.qmd) explains how the worked examples and practice resources developed.
+
+— Valerie Hartman
